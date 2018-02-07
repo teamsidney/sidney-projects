@@ -1,6 +1,7 @@
 # sidney-projects
 
 This is Sidney's copy.
+And another.
 
 Set up Mac:
 

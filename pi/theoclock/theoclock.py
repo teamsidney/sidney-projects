@@ -176,6 +176,7 @@ def doClock(clock, dayImage, nightImage, wakeupTime, bedTime):
 
     time.sleep(0.04)
     unicorn.show()
+    print ('moo')
 
 def main():
   doClock(

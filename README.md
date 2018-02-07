@@ -1,5 +1,7 @@
 # sidney-projects
 
+This is Sidney's copy.
+
 Set up Mac:
 
 sudo easy_install pip
